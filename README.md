@@ -9,7 +9,7 @@ The final mark for this project is 18/20.
   <img src="ressources/flow1.png" alt="Encrypted pixel art of a city, noisy image" style="width: 60%;"/>
 </div>
 
-The Ford-Fulkerson algorithm is a graph algorithm used to determine the maximum from from a source node to a sink node. It can also be used to calculate if a minimum flow can be reached through an entire network.
+The Ford-Fulkerson algorithm is a graph algorithm used to determine the maximum flow from a source node to a sink node. It can also be used to calculate if a minimum flow can flow through an entire network.
 
 Using the -g option (see [Examples of usages](#examples-of-usage)), you can visualize the flow in the graph.
 The lighter the color of an edge, the more saturated it is.
@@ -36,27 +36,27 @@ The lighter the color of an edge, the more saturated it is.
 
 ## Examples of usage
 1. **Finding the maximum flow from s to t in an existing file**
-    ```
+    ```console
     python3 main.py -i filename.txt -s s -t t
     ```
 
 2. **Finding the maximum flow from s to t in an existing file and displaying the residual graph in a window**
-    ```
+    ```console
     python3 main.py -i filename.txt -s s -t t -g
     ```
 
 3. **Finding the maximum flow from multiple sources to t in an existing file**
-    ```
+    ```console
     python3 main.py -i filename.txt -s "s_1 s_2 s_3 s_n" -t t
     ```
 
 4. **Finding the maximum flow from multiple sources to multiple sinks in an existing file**
-    ```
+    ```console
     python3 main.py -i filename.txt -s "s_1 s_2 s_3 ... s_n" -t "t_1 t_2 ... t_k"
     ```
 
 5. **Finding the maximum flow from s to t in a randomly generated file with n vertices**
-    ```
+    ```console
     python3 main.py -r n -s s -t t
     ```
 
