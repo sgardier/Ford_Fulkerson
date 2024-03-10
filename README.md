@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Python project developped for the graph theory course (MATH0499) given by Pr. Rigo, ULiège.<br>
-The final mark for this project is 18/20.
+The final mark for this project is 19/20.
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="ressources/flow1.png" alt="Encrypted pixel art of a city, noisy image" style="width: 60%;"/>
