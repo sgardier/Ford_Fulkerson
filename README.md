@@ -18,7 +18,7 @@ The lighter the color of an edge, the more saturated it is.
 ## Summary
 1. [Required Modules](#required-modules)
 2. [Project structure](#project-structure)
-3. [Examples of usages](#examples-of-usage)
+3. [Examples](#examples)
 4. [Technical Specifics](#technical-specifics)
 5. [Credits](#credits)
 
@@ -34,7 +34,7 @@ The lighter the color of an edge, the more saturated it is.
   - display.py: Script for displaying graphs via matplotlib
   - utils.py: Script for creating random graphs of any size
 
-## Examples of usage
+## Examples
 1. **Finding the maximum flow from s to t in an existing file**
     ```console
     python3 main.py -i filename.txt -s s -t t
