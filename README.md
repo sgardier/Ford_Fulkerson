@@ -1,4 +1,4 @@
-# 🔀 Ford-Fulkerson algorithm in Python
+# 🔀 Ford-Fulkerson algorithm
 ![Release](https://img.shields.io/badge/Release-v1.0-blueviolet?style=for-the-badge)
 ![Language](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
