@@ -65,5 +65,5 @@ The lighter the color of an edge, the more saturated it is.
 - Graphs are stored in Edge List files (see [NetworkX Edge List documentation](https://networkx.org/documentation/stable/reference/readwrite/edgelist.html))
 
 ## Credits
-- [Simon Gardier](https://github.com/sgardier) (Co-author)
+- [Simon Gardier](https://github.com/simon-gardier) (Co-author)
 - Camille Trinh (Co-author)
