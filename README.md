@@ -11,7 +11,7 @@ The final mark for this project is 19/20.
 
 The Ford-Fulkerson algorithm is a graph algorithm used to determine the maximum flow from a source node to a sink node. It can also be used to calculate if a minimum flow can flow through an entire network.
 
-Using the -g option (see [Examples of usages](#examples-of-usage)), you can visualize the flow in the graph.
+Using the -g option (see [Examples](#examples)), you can visualize the flow in the graph.
 The lighter the color of an edge, the more saturated it is.
 
 
