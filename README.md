@@ -6,7 +6,7 @@ Python project developped for the graph theory course (MATH0499) given by Pr. Ri
 The final mark for this project is 19/20.
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="ressources/flow1.png" alt="Encrypted pixel art of a city, noisy image" style="width: 60%;"/>
+  <img src="ressources/flow1.png" alt="Flow example" style="width: 60%;"/>
 </div>
 
 The Ford-Fulkerson algorithm is a graph algorithm used to determine the maximum flow from a source node to a sink node. It can also be used to calculate if a minimum flow can flow through an entire network.
